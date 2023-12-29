@@ -1,5 +1,5 @@
 {
 	"name": "Assembler",
-	"description": "Die Assemblersprache, oft einfach als 'Assembler' bezeichnet, wurde in den 1950er Jahren entwickelt und ist eine niedrige Programmiersprache, die direkt mit der Maschinenarchitektur eines Computers interagiert. Im Gegensatz zu höheren Programmiersprachen, die für Menschen leichter lesbar und verständlich sind, ist Assembler stark an die Hardware des Rechners angelehnt. Assemblerbefehle entsprechen in der Regel genau den Maschinenbefehlen des Prozessors, was bedeutet, dass jeder Befehl eine bestimmte Aktion auf der Hardwareebene ausführt. Programme, die in Assembler geschrieben sind, sind daher sehr hardwarenah und bieten eine präzise Kontrolle über die Ressourcen des Computers.",
+	"description": "Die Assemblersprache, oft einfach als 'Assembler' bezeichnet, wurde in den 1950er Jahren entwickelt und ist eine niedrige Programmiersprache, die direkt mit der Maschinenarchitektur eines Computers interagiert. Im Gegensatz zu höheren Programmiersprachen, die für Menschen leichter lesbar und verständlich sind, ist Assembler stark an die Hardware des Rechners angelehnt. ",
 	"thumbnail": false
 }
